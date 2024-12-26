@@ -33,6 +33,7 @@ Publish the website in the given URL.
 Figma
 
 ## CODE:
+```
 <div style="width: 390px; height: 844px; position: relative; background: white">
   <img style="width: 390px; height: 844px; left: 0px; top: 0px; position: absolute" src="https://via.placeholder.com/390x844" />
   <img style="width: 397px; height: 80px; left: -8px; top: 69px; position: absolute" src="https://via.placeholder.com/397x80" />
@@ -78,6 +79,7 @@ Figma
   <div style="width: 6px; height: 11px; left: 384px; top: 79px; position: absolute; background: #D9D9D9"></div>
   <div style="width: 272px; height: 42px; left: 49px; top: 118px; position: absolute; text-align: center; color: black; font-size: 24px; font-family: Inter; font-weight: 400; word-wrap: break-word">THANK YOU</div>
 </div>
+```
 
 ## OUTPUT:
 
